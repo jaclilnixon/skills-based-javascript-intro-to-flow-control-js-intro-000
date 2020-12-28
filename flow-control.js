@@ -19,7 +19,7 @@ if (age >= 13 && age <= 19) {
 }  else if (age <= 12) {
   console.log("You are a kid");
 } else {
-  return `You are a grownup`
+  console.log("You are a grownup");
 }
 }
 
